@@ -4,13 +4,13 @@ Twitter Clone with additional Report against Cyber Bullying and Sexual Harassmen
 
 Client Folder :-
 Run:- 1)npm install --save--legacy-peer-deps
-npm config set legacy-peer-deps true
-npm install
-npm start
+      2) npm config set legacy-peer-deps true
+      3)npm install
+      4)npm start
 
       
 Server Folder :-
-Run :- npm install
-npm run start
+Run :- 1)npm install
+      2)npm run start
         
 Connect to your local MongoDB compass
